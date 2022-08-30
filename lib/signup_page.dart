@@ -124,7 +124,7 @@ class SignupPage extends StatelessWidget {
                 height: 40,
                 color: Colors.white,
                 child: const Text(
-                  'Sign Up',
+                  'Create Account',
                   style: TextStyle(
                     fontSize: 17,
                     color: Colors.black,
